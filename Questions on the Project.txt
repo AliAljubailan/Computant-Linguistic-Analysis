@@ -1,0 +1,21 @@
+
+Hi Dr. Tyers, 
+
+I hope you are doing will.
+
+Here are some questions regarding my project:
+
+1- I could upload Arabic PADT & udpipe parser, do the training test and such stuff, but for Best, I will need some help to deal with it and process PADT by it the same way as udpipe. Would you mind helping me with that please?
+
+
+2- For the next step and EP, I will need to write some code targeting analyzing and parsing clitics in Arabic that are less complicated than the following step ---- that is, they don't have intervening morphological elements. 
+
+
+3- If I could reach a way by which I can deal with clitics in the second step, I might still need to develop another script, or the same script, to make it able to deal with the more complicated case, which is the final step. 
+
+4- I am not sure if the script that I can get is processable for both parsers, or I should modify it from a parser to another. 
+
+
+Thanks,  
+
+Ali
